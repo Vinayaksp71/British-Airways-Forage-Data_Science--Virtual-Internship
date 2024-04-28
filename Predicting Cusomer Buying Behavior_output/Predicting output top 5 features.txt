@@ -1,0 +1,14 @@
+C:\Users\91948\Desktop\British Airways>python Predicting.py
+CSV file loaded successfully.
+We have trained the data set with Random forest classifier model and received:
+ACCURACY: 85.62
+AUC score: 0.549
+
+Top 5 features which influence Customer buying behavior:
+purchase_lead
+route
+flight_hour
+length_of_stay
+booking_origin
+
+And plot top features that can drive successful flight booking:
