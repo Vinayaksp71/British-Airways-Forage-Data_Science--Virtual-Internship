@@ -1,0 +1,7 @@
+C:\Users\91948\Desktop\British Airways>python DataAnalysis4.py
+From cleaning 1000 reviews given by the customers, we obtained
+Number of Positive Reviews: 382
+Number of Negative Reviews: 158
+Number of Neutral Reviews: 460
+Word cloud image saved to C:/Users/91948/Desktop/British Airways\wordcloud.png
+Sentiment pie chart saved to C:/Users/91948/Desktop/British Airways\sentiment_pie_chart.png
